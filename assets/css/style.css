@@ -103,13 +103,13 @@ nav{
     font-weight: 600;
     color: var(--text-color-third);
 }
-.nav-logo span{
+/* .nav-logo span{
     position: absolute;
     top: -15px;
     right: -20px;
     font-size: 5em;
     color: var(--text-color-second);
-}
+} */
 .nav-menu, .nav_menu_list{
     display: flex;
 }
